@@ -30,7 +30,7 @@ include 'myLibs.php';
                 <th>Giảng viên phụ trách</th>
             </tr>
         </thead>
-        <tbody>
+    <tbody><Body></body>
             <?php
            
                 foreach($arrCourse as $k => $v){?>
